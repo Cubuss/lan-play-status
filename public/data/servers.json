@@ -133,6 +133,13 @@
     "platform": "switch",
     "type": "rust"
   },
+ {
+    "ip": "lanplay.verdandi.icu",
+    "port": 11452,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
   {
     "ip": "switch.jayseateam.nl",
     "port": 11453,
