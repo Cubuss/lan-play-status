@@ -127,6 +127,13 @@
     "type": "rust"
   },
   {
+    "ip": "goldenrod.spdns.de",
+    "port": 11451,
+    "flag": "de",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
     "ip": "teamneptune.ddns.net",
     "port": 11451,
     "flag": "de",
